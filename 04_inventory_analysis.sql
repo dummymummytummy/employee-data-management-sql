@@ -1,7 +1,6 @@
 -- Employee & Vendor Data Analytics Project
 -- File: 04_inventory_analysis.sql
 -- Description: Inventory and product-level insights for supply optimization
--- Database: Northwind
 -- Tools: Microsoft SQL Server Management Studio (SSMS)
 -- Author: Prashna Dhakal
 -- Date: 2025-11-04
