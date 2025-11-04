@@ -1,7 +1,6 @@
 -- Employee & Vendor Data Analytics Project
 -- File: 07_employee_updates.sql
 -- Description: Employee data updates for international expansion
--- Database: Northwind
 -- Tools: Microsoft SQL Server Management Studio (SSMS)
 -- Author: Prashna Dhakal
 -- Date: 2025-11-04
