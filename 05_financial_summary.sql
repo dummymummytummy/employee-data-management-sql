@@ -1,7 +1,6 @@
 -- Employee & Vendor Data Analytics Project
 -- File: 05_financial_summary.sql
 -- Description: Vendor performance, invoice trends, and payment summary analysis
--- Database: AP (Accounts Payable)
 -- Tools: Microsoft SQL Server Management Studio (SSMS)
 -- Author: Prashna Dhakal
 -- Date: 2025-11-04
