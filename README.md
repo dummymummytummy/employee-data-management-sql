@@ -34,3 +34,37 @@ Key business objectives included:
 - Managing data integrity through action queries (INSERT, UPDATE, DELETE)  
 
 All queries were executed using **Microsoft SQL Server**, with results validated through exploratory analysis and reporting views.
+
+# Employee Data Analytics Project
+This project simulates work as a Data Analyst for an **international company**. 
+It demonstrates SQL skills including single-table queries, multi-table joins, subqueries, aggregate functions, and action queries (INSERT, UPDATE, DELETE). 
+The project explores products, customers, vendors, inventory, finances, and employee performance using Microsoft SQL Server.
+
+## Repository Structure
+
+- `01_day1_orientation.sql` — Day 1: Understanding products and company data  
+- `02_multi_table_queries.sql` — Multi-table queries: product and customer insights  
+- `03_customer_insights.sql` — Customer behavior and orders analysis  
+- `04_inventory_analysis.sql` — Inventory metrics and stock optimization  
+- `05_financial_summary.sql` — Vendor and payment analysis  
+- `06_employee_performance_comparison.sql` — London vs company-wide employee performance  
+- `07_employee_updates.sql` — Employee updates for international expansion
+- `screenshots/` — Optional screenshots of query results
+  
+## How to Use
+
+1. Download or clone the repository.
+2. Open SQL Server Management Studio (SSMS).
+3. Load the appropriate database (Northwind, AP, or ClassExercises).
+4. Open each `.sql` file to review and execute queries.
+5. Optional: View screenshots in the `screenshots/` folder for reference.
+   
+## Key Features / Skills Demonstrated
+
+- Single-table and multi-table SQL queries
+- Aggregate functions: COUNT, SUM, AVG
+- Subqueries and EXISTS/IN usage
+- Action queries: INSERT, UPDATE, DELETE
+- Business insights on products, inventory, vendors, and employee performance
+- Reporting for international business expansion
+
