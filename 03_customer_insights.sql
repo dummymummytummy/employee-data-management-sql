@@ -1,7 +1,6 @@
 -- Employee & Vendor Data Analytics Project
 -- File: 03_customer_insights.sql
 -- Description: Customer segmentation and sales insights
--- Database: Northwind
 -- Tools: Microsoft SQL Server Management Studio (SSMS)
 -- Author: Prashna Dhakal
 -- Date: 2025-11-04
