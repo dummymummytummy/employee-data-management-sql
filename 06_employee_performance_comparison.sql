@@ -1,7 +1,6 @@
 -- Employee & Vendor Data Analytics Project
 -- File: 06_employee_performance_comparison.sql
 -- Description: Employee performance comparison: London vs. rest of company
--- Database: ClassExercises / Northwind
 -- Tools: Microsoft SQL Server Management Studio (SSMS)
 -- Author: Prashna Dhakal
 -- Date: 2025-11-04
