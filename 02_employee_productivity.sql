@@ -1,7 +1,6 @@
 -- Employee & Vendor Data Analytics Project
 -- File: 02_employee_productivity.sql
 -- Description: Employee productivity and performance analysis
--- Database: Northwind
 -- Tools: Microsoft SQL Server Management Studio (SSMS)
 -- Author: Prashna Dhakal
 -- Date: 2025-11-04
